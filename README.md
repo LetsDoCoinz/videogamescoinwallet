@@ -13,7 +13,7 @@ This in a multi platform GUI wallet for videogamescoin.
 ### 1. Clone wallet sources
 
 ```
-git clone git@github.com:videogamescoin/videogamescoin-gui.git
+git clone https://github.com/videogamescoin/videogamescoinwallet.git
 ```
 
 ### 2. Update git submodules
