@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=videogamescoin Wallet
+Comment=videogamescoin wallet
+Exec=videogamescoin %U
+Terminal=false
+Type=Application
+Icon=videogamescoin
+MimeType=x-scheme-handler/videogamescoin;
+Categories=Office;Finance;
