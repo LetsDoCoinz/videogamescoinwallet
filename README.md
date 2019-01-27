@@ -13,16 +13,17 @@ This in a multi platform GUI wallet for videogamescoin.
 ### 1. Clone wallet sources
 
 ```
-git clone https://github.com/videogamescoin/videogamescoinwallet.git
-```
+git clone https://github.com/videogamescoin/videogamescoinwallet.git vgcwallet
 
-### 2. Update git submodules
+cd vgcwallet
+
+git clone https://github.com/videogamescoin/VideoGamesCoinCore.git cryptonote
+
+mkdir build
+
+cd build
 
 ```
-git submodule update --init --recursive
-git submodule foreach git pull origin gui
-```
-
 ### 3. Build
 
 #### On Windows
